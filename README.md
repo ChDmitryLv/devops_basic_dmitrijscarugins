@@ -1,2 +1,2 @@
 # devops_basic_dmitrijscarugins
-DevOps pamati iesacejiem
+Dmitrija Čarugina DevOps repozitorijs pamati iesācējiem
