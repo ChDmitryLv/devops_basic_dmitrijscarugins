@@ -30,3 +30,5 @@ git log --pretty=format:"%ad - %an: %s" --after="2021-09-01" --until="2021-09-31
 	- Thu Sep 2 14:47:38 2021 -0400 - Laura Pacilio: Merge pull request #28334 from paultyng/patch-1
 
 nav veikusi commitus vakar. (pedejais tika veikts 20 aprili)
+
+* pie 20 - 21 aprila commits ar 16 aprili jo vareja but git rebase ar pirmo commitu kurs bija taisits 16 aprili, bet pedejais commits 21 aprili
