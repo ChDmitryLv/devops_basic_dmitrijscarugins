@@ -2,7 +2,9 @@ Bildes no module 1 un module 2 ir dazados commitos un ar saviem hash
 
 Laura Pacilio veica shadus commitus 2021 septembri
 
-(git log --pretty=format:"%ad - %an: %s" --after="2021-09-01" --until="2021-09-31" --author="Laura Pacilio")
+git log --since='2 weeks ago'
+
+git log --pretty=format:"%ad - %an: %s" --after="2021-09-01" --until="2021-09-31" --author="Laura Pacilio"
 
 Mon Sep 20 17:24:31 2021 -0400 - Laura Pacilio: Merge pull request #29567 from drasko95/patch-1
 
