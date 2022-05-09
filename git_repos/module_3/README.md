@@ -1,4 +1,4 @@
-![ec2](/git_repos/module_3/ec2.PNG "ec2")
+![ec2](/git_repos/module_3/pics/ec2.PNG "ec2")
 
 - Details: ec2 galvenie parametri tadi ka OS
 - Security: saka pie kuras security group ir pielikta ec2 instance
